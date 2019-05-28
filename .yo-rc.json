@@ -1,0 +1,22 @@
+{
+  "generator-ngx-rocket": {
+    "version": "6.1.0",
+    "props": {
+      "location": "path",
+      "appName": "gerenciador_de_mercado",
+      "target": ["web"],
+      "pwa": true,
+      "ui": "ionic",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "tools": ["prettier"],
+      "utility": ["lodash"],
+      "projectName": "gerenciador-de-mercado",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": []
+    }
+  }
+}
